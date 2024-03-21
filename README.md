@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -221,5 +219,3 @@ init();
 </script>
 
 </body >
-
-</html >
